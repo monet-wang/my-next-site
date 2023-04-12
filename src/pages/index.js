@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 import fs from 'fs';
 import path from 'path';
 
-import Layout from '@/components/Layout';
+import Layout from '@/components/layout';
 
 const Home = ({ articles }) => {
 	return (
